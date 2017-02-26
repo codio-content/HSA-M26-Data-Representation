@@ -1,0 +1,57 @@
+{
+ "sections": [
+  {
+   "id": "af6245e0-2cd8-6548-1e61-15cdcd1ab020",
+   "title": "Data Representation",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Representation-af62.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3f4f3601-56a8-375d-8223-bffb7891f148",
+   "title": "Data Compression",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Compression-3f4f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9cdb0f26-6ae3-350d-ed3a-59de7eee1766",
+   "title": "Data Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Encryption-9cdb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2b94bd8c-8997-db18-fd91-6ff1d7ec3ab7",
+   "title": " Data Representation Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-Data-Representation-Quiz-2b94.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
